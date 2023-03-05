@@ -1,0 +1,58 @@
+{
+  "employee": [
+    {
+      "id": 0,
+      "name": "Anjali",
+      "email": "anjali@gmail.com",
+      "groups": "Instructor"
+    },
+    {
+      "name": "Arjun",
+      "email": "arjun@gmail.com",
+      "groups": "Instructor",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Vaibhav",
+      "email": "vaibhav@gmail.com",
+      "groups": "Student"
+    },
+    {
+      "name": "Atul",
+      "email": "atul@gmail.com",
+      "groups": "Student",
+      "id": 3
+    },
+    {
+      "name": "Prinyanka1",
+      "email": "prinyanka@gmail.com",
+      "groups": "Student",
+      "id": 4
+    },
+    {
+      "name": "Juber",
+      "email": "juber@gmail.com",
+      "groups": "Student",
+      "id": 5
+    },
+    {
+      "name": "Abhishek",
+      "email": "abhishek@gmail.com",
+      "groups": "Student",
+      "id": 6
+    },
+    {
+      "name": "Lokesh",
+      "email": "lokesh@gmail.com",
+      "groups": "Student",
+      "id": 7
+    },
+    {
+      "name": "Subha",
+      "email": "subha@gmail.com",
+      "groups": "Admin",
+      "id": 8
+    }
+  ]
+}
